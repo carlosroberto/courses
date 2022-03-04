@@ -1,0 +1,12 @@
+asgiref
+astroid
+isort
+lazy-object-proxy
+mccabe
+pylint
+pytz
+six
+sqlparse
+toml
+typed-ast
+wrapt
